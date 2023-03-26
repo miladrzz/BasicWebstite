@@ -1,3 +1,5 @@
 # Basic Website
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+This website is made for buying and selling Blizzard products.
+I have used PHP Laravel and Blade in MVC model to make it.
+I have used Controller to do the logical process, PHPMyAdmin for Database, .blade file for veiw and Laravel authenticator for checking users login details.
